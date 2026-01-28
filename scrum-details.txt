@@ -1,14 +1,1 @@
-College Placement Portal
 
-This project is developed using Scrum methodology.
-
-Sprint 1:
-- Student Registration
-- Login Module
-
-Sprint 2:
-- Job Posting
-- Student Job Application
-
-GitHub Issues are used as User Stories.
-GitHub Milestones are used as Sprints.
